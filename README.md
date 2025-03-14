@@ -126,7 +126,7 @@
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
   Clearly defining the problem helps in developing a more effective College Admissions Enquiry Chatbot by:
     Focusing Development Efforts: Ensures the chatbot addresses specific pain points like information overload, accessibility, and language barriers.
-    Improving User Experience: By understanding the challenges faced by prospective students and parents, the chatbot can be designed to provide quick, accurate, and user-friendly responses.
+    Improving User Experience: By understanding the challenges faced by prospective students and parents, the chatbot can be designed to provide quick, accurate, and user-friendly                                       responses.
     Enhancing Features: Identifying core issues allows for the inclusion of essential features like multilingual support and 24/7 availability.
     Aligning with Stakeholder Needs: Ensures the solution meets the expectations of both users (students, parents) and college staff.
 
