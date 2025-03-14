@@ -142,5 +142,8 @@
   Analytics Dashboard: Provides colleges with insights into common queries and user behavior.
 
 ## 12. What data is available regarding the market size and growth potential for your software?
+  According to Markets and Markets, 2022, The global chatbot market was estimated to be at around 5 to 15 bllion dollars by 2026.
+  The chatbot market is expanding rapidly, driven by increasing adoption across industries, including education. This growth indicates a strong demand 
+  for AI-driven solutions like the College Admissions Enquiry Chatbot.
 
 ## 13. How can understanding market trends inform your software’s positioning and development?
