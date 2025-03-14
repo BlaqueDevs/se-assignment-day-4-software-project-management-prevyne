@@ -131,6 +131,16 @@
     Aligning with Stakeholder Needs: Ensures the solution meets the expectations of both users (students, parents) and college staff.
 
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+  I would say, "This College Admissions Enquiry Chatbot is a virtual assistant designed to simplify the college admissions process. It provides instant, accurate, and personalized responses to common questions, helping prospective students and parents navigate the complexities of college applications. Available 24/7 and supporting multiple languages, the chatbot ensures everyone has access to the information they need, when they need it."
+  
 ## 11. What are the main features or functionalities that make your software stand out?
+  24/7 Availability: Instant responses to queries at any time.
+  Multilingual Support: Assists international students and non-native speakers.
+  Personalized Responses: Tailors answers based on user input and preferences.
+  Integration with College Systems: Pulls real-time data from college databases for accurate information
+  User-Friendly Interface: Simple and intuitive design for easy navigation.
+  Analytics Dashboard: Provides colleges with insights into common queries and user behavior.
+
 ## 12. What data is available regarding the market size and growth potential for your software?
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
